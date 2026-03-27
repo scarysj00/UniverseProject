@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/UniverseMap.umap",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_earth_clouds.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_earth_daymap.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_earth_nightmap.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_moon.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_sun.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_earth_specular_map.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_earth_normal_map.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Blueprint/BP_Sun.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/MT_Sun.uasset"
+			]
+		}
+	]
+}
