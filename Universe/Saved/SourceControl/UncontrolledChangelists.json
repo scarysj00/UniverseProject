@@ -14,7 +14,11 @@
 				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_earth_specular_map.uasset",
 				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_earth_normal_map.uasset",
 				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Blueprint/BP_Sun.uasset",
-				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/MT_Sun.uasset"
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/MT_Sun.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/8k_stars.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Blueprint/BP_Earth.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/MT_Cloud.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/ProjectUniverse/Universe/Content/Material/MT_Earth.uasset"
 			]
 		}
 	]
